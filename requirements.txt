@@ -1,0 +1,5 @@
+qiskit==2.0.0
+qiskit-aer==0.17.0
+numpy==2.2.4
+matplotlib==3.10.1
+pillow==11.1.0
